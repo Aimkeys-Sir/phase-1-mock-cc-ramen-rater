@@ -39,6 +39,22 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Sushi",
+      "image": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2019/08/cb3c0x-2.jpg",
+      "restaurant": "Mk the shuramen",
+      "rating": "8",
+      "comment": "hey come eat sushi",
+      "id": 6
+    },
+    {
+      "name": "Shashimi",
+      "image": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2019/08/jwa467.jpg",
+      "restaurant": "Kanji dish",
+      "rating": "10",
+      "comment": "you will always want more",
+      "id": 7
     }
   ]
 }
